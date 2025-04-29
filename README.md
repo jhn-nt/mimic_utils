@@ -1,6 +1,9 @@
 # MIMIC-IV utils
 ## A collection of low-level utilities to simplify processing of MIMIC-IV data.
 
+### Installation
+Run: `pip install "git+https://github.com/jhn-nt/mimic_utils.git"`
+
 ### Parsers
 Collection of methods to categorize and parse various features commonly found in literature.
 ```python
